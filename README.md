@@ -1,2 +1,2 @@
-# personal-finance-quiz
+# Personal-Finance-Quiz
  
